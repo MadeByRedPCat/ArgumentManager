@@ -1,19 +1,22 @@
+  > [!NOTE]
+  > This is a continuation of Vendetta.
+
 <div align="center">
 
   <img src="images/vendetta_logo.png" alt="Vendetta logo" width="200px" style="border-radius: 50%" />
   
-  # Vendetta Manager
+  # Argument Manager
 
-  Easily install Vendetta on Android
+  Easily install Argument on Android
 
-  [![Latest release](https://img.shields.io/github/v/release/vendetta-mod/VendettaManager?color=3AB8BA&display_name=release&label=Latest&style=for-the-badge)](https://github.com/vendetta-mod/VendettaManager/releases/latest)
+  [![Latest release](https://img.shields.io/github/v/release/MadeByRedPCat/ArgumentManager?color=3AB8BA&display_name=release&label=Latest&style=for-the-badge)](https://github.com/MadeByRedPCat/ArgumentManager/releases/latest)
   
   ---
 
   <br>
 
-  ![Debug build status](https://img.shields.io/github/actions/workflow/status/vendetta-mod/VendettaManager/build-debug.yml?label=Debug%20Build&logo=github&style=for-the-badge&branch=main)
-  [![Stars](https://img.shields.io/github/stars/vendetta-mod/VendettaManager?logo=github&style=for-the-badge)](https://github.com/vendetta-mod/VendettaManager/stargazers)
+  ![Debug build status](https://img.shields.io/github/actions/workflow/status/MadeByRedPCat/ArgumentManager/build-debug.yml?label=Debug%20Build&logo=github&style=for-the-badge&branch=main)
+  [![Stars](https://img.shields.io/github/stars/MadeByRedPCat/ArgumentManager?logo=github&style=for-the-badge)](https://github.com/MadeByRedPCat/ArgumentManager/stargazers)
   [![Discord](https://img.shields.io/discord/1015931589865246730?logo=discord&logoColor=white&style=for-the-badge)](https://discord.gg/n9QQ4XhhJP)
   
   <br>
@@ -40,7 +43,7 @@ Build
 #### Instructions
 
 1. Clone the repo
-    - `git clone https://github.com/vendetta-mod/VendettaManager.git && cd VendettaManager`
+    - `git clone https://github.com/MadeByRedPCat/ArgumentManager.git && cd ArgumentManager`
 2. Build the project
     - Linux: `chmod +x ./gradlew && gradlew assembleDebug`
     - Windows: `./gradlew assembleDebug`
@@ -54,11 +57,11 @@ This is an open-source project, you can do so without any programming.
 
 Here are a few things you can do:
 
-- [Test and report issues](https://github.com/vendetta-mod/VendettaManager/issues/new/choose)
-- [Translate the app into your language](https://crowdin.com/project/vendetta-manager)
+- [Test and report issues](https://github.com/MadeByRedPCat/ArgumentManager/issues/new/choose)
+- [Translate the app into your language](https://crowdin.com/project/argument-manager)
     
 License
 ---
-Vendetta is licensed under the Open Software License version 3.0
+Argument is licensed under the Open Software License version 3.0
 
-[![License: OSL v3](https://img.shields.io/badge/License-OSL%20v3-blue.svg?style=for-the-badge)](https://github.com/vendetta-mod/VendettaManager/blob/main/LICENSE)
+[![License: OSL v3](https://img.shields.io/badge/License-OSL%20v3-blue.svg?style=for-the-badge)](https://github.com/MadeByRedPCat/ArgumentManager/blob/main/LICENSE)
